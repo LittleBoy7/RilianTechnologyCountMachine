@@ -1,4 +1,3 @@
 # YihuaTechnologyCountMachine
-# YihuaTechnologyCountMachine
-# YihuaTechnologyCountMachine
-# YihuaTechnologyCountMachine
+项目背景：
+项目开发可用于对日联科技原有基于线阵的点料机的算法系统进行升级，也可用于新设计的基于FPD取像的新设备，算法预研究阶段采用的是原有线阵取像方式的设备所存储的图像，后期需要通过一定的算法标注，数据集扩充等方式对基于FPD取信的设备图像进行兼容。
