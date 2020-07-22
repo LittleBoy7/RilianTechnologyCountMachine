@@ -7,6 +7,6 @@
 2）解决由于射线照射角度导致部分料的图像有黏连的问题；
 3）解决由于电压电流兼容性问题导致的部分较大料图像亮度对比度较低时的识别问题；
 4）算法不仅能给出较准确的零件数目，也要给出相应的零件中心。
-```xml
+
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/36.png" alt="算法流程" width="500" height="313" align="left" />
 
