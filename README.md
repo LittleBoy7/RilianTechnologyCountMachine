@@ -20,7 +20,7 @@
 预处理主要包括裁剪周围黑边，检测轮盘外圆并得到外接正方形，以及小图的裁剪。最终得到的效果图如下所示： 
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/37.png" alt="小图裁剪" width="909" height="235" align="center" />
 ### 模型推理  
-将一张大图裁剪得到的所有小图送入网络模型进行模型推理，网络得到与输入小图大小一致的密度图矩阵，用于后续的计数与位置回归。输入小图与密度矩阵可视化热图如图所示:
+将一张大图裁剪得到的所有小图送入设计的网络模型进行模型推理，网络得到与输入小图大小一致的密度图矩阵，用于后续的计数与位置回归。输入小图与密度矩阵可视化热图如图所示:
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/38.png" alt="模型推理" width="799" height="398" align="center" />
 ### 后处理  
 由于裁剪小图过程中，边界区域被切割成两半的元件，会造成较大漏检与误检的情况，在小图周围覆盖过渡带，缓解这一问题:  
