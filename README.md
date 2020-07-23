@@ -12,7 +12,7 @@
 2. [预处理](#预处理)
 3. [模型推理](#模型推理)
 4. [后处理](#后处理)
-
+5. [结果展示](#结果展示)
 ### 总体流程  
 首先对原始数据进行预处理，包括裁掉图片周围黑边，检测轮盘外圆并得到外接正方形，根据外接正方形切割成小图。对分割后的小图进行模型推理，得到小图对应的密度图矩阵。最后经过后处理，将小图的密度图矩阵合并成原始大图的密度图矩阵，根据密度图矩阵得到计数矩阵以及元件位置信息。  
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/36.png" alt="算法流程" width="500" height="400" align="center" />
@@ -21,3 +21,4 @@
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/37.png" alt="小图裁剪" width="909" height="235" align="center" />
 ### 模型推理  
 ### 后处理  
+### 结果展示  
