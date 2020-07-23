@@ -8,5 +8,13 @@
 3）解决由于电压电流兼容性问题导致的部分较大料图像亮度对比度较低时的识别问题；  
 4）算法不仅能给出较准确的零件数目，也要给出相应的零件中心。  
 ## 项目流程
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/36.png" alt="算法流程" width="500" height="400" align="center" />
+1. [总体流程](#总体流程)
+2. [预处理](#预处理)
+3. [模型推理](#模型推理)
+4. [后处理](#后处理)
 
+### 总体流程
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/36.png" alt="算法流程" width="500" height="400" align="center" />
+### 预处理
+### 模型推理
+### 后处理
