@@ -18,6 +18,6 @@
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/36.png" alt="算法流程" width="500" height="400" align="center" />
 ### 预处理  
 预处理主要包括裁剪周围黑边，检测轮盘外圆并得到外接正方形，以及小图的裁剪。最终得到的效果图如下所示： 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/37.png" alt="小图裁剪" width="500" height="400" align="center" />
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/37.png" alt="小图裁剪" width="909" height="235" align="center" />
 ### 模型推理  
 ### 后处理  
