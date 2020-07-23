@@ -21,6 +21,8 @@
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/37.png" alt="小图裁剪" width="909" height="235" align="center" />
 ### 模型推理  
 将一张大图裁剪得到的所有小图送入网络模型进行模型推理，网络得到与输入小图大小一致的密度图矩阵，用于后续的计数与位置回归。输入小图与密度矩阵可视化热图如图所示:
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/38.png" alt="算法流程" width="799" height="398" align="center" />
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/38.png" alt="模型推理" width="799" height="398" align="center" />
 ### 后处理  
+由于裁剪小图过程中，边界区域被切割成两半的元件，会造成较大漏检与误检的情况，在小图周围覆盖过渡带，缓解这一问题:  
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="302" height="278" align="center" />
 ### 结果展示  
