@@ -27,11 +27,11 @@
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="302" height="278" align="center" />
 ### 结果展示  
 最终的点料机整张大图计数，如下图所示，其中把计数的每个元件用红点标记，技术结果打印在圆盘中间空白区域，更多效果图在image目录下。  
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/2.png" alt="后处理" width="732" height="714" align="center" />  
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/2.png" alt="后处理" width="500" height="500" align="center" />  
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/4.png" alt="后处理" width="732" height="714" align="center" /> 
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/4.png" alt="后处理" width="500" height="500" align="center" /> 
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="302" height="278" align="center" />  
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/5.png" alt="后处理" width="500" height="500" align="center" />  
 
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="302" height="278" align="center" /> 
 
