@@ -26,7 +26,7 @@
 由于裁剪小图过程中，边界区域被切割成两半的元件，会造成较大漏检与误检的情况，在小图周围覆盖过渡带，缓解这一问题:  
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="302" height="278" align="center" />
 ### 结果展示  
-最终的点料机整张大图计数，如下图所示，其中把计数的每个元件用红点标记，技术结果打印在圆盘中间空白区域。  
+最终的点料机整张大图计数，如下图所示，其中把计数的每个元件用红点标记，技术结果打印在圆盘中间空白区域，更多效果图在image目录下。  
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/2.png" alt="后处理" width="732" height="714" align="center" />  
 
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/4.png" alt="后处理" width="732" height="714" align="center" /> 
