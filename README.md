@@ -41,4 +41,5 @@
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/32.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/33.png" alt="后处理" width="410" height="410" align="center" />  
 
 ### 环境要求  
-
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/42.png" alt="后处理" width="673" height="269" align="center" />  
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/41.png" alt="后处理" width="653" height="154" align="center" />   
