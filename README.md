@@ -29,11 +29,13 @@
 最终的点料机整张大图计数，如下图所示，其中把计数的每个元件用红点标记，技术结果打印在圆盘中间空白区域，更多效果图在image目录下。  
 <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/2.png" alt="后处理" width="410" height="410" align="center" />  <img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/4.png" alt="后处理" width="410" height="410" align="center" /> 
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/5.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /> 
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/5.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/13.png" alt="后处理" width="410" height="410" align="center" /> 
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /> 
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/15.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/17.png" alt="后处理" width="410" height="410" align="center" /> 
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /> 
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/21.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/23.png" alt="后处理" width="410" height="410" align="center" /> 
 
-<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/40.png" alt="后处理" width="410" height="410" align="center" />  
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/24.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/27.png" alt="后处理" width="410" height="410" align="center" />  
+
+<img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/32.png" alt="后处理" width="410" height="410" align="center" /><img src="https://github.com/LittleBoy7/RilianTechnologyCountMachine/blob/master/images/33.png" alt="后处理" width="410" height="410" align="center" />  
 
